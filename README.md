@@ -1,10 +1,9 @@
 ### Hello! 👋
 
-| <a href="https://github.com/kstencell/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kstencell&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Karl's github stats" /></a> | <a href="https://github.com/kstencell/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstencell&layout=compact&theme=synthwave&hide_border=true" /></a> |
+| <a href="https://github.com/kstencell/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kstencell&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Karl's github stats" /></a> | <a href="https://github.com/kstencell/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstencell&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
-theme buefy
 
 **kstencell/kstencell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
