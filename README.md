@@ -1,4 +1,4 @@
-<p align="center"><a href="https://kstencell.github.io/"><img width="80%" alt="Hi, I'm Karl Stencell" src="./images/github-readme-banner.png" /></a></p>
+<p align="center"><a href="https://kstencell.github.io/" target="_blank"><img width="80%" alt="Hi, I'm Karl Stencell" src="./images/github-readme-banner.png" /></a></p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kstencell&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=34A853&icon_color=4285F4&hide_border=true" alt="Karl's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstencell&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
