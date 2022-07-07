@@ -8,8 +8,8 @@
   - 📘 Graduate of University of Guelph, Bachelor of Science (Honours) Major Theoretical Physics
   - 📗 Student at Conestoga College, Bachelor of Computer Science (Honours)
   - 📝 Researcher at Conestoga College
-  - 📱 Creator of chart topping iOS app <ahref="https://appadvice.com/app/guitar-practice/1513229012">Guitar Practice (Peaked #23 in Canada)</a>
-  - 💻 Creator of the website <ahref="http://marketmash.ca>Market Mash</a>
+  - 📱 Creator of chart topping iOS app <a href="https://appadvice.com/app/guitar-practice/1513229012">Guitar Practice (Peaked #23 in Canada)</a>
+  - 💻 Creator of the website <a href="http://marketmash.ca>Market Mash</a>
 <!--
 
 **kstencell/kstencell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
