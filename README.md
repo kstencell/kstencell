@@ -9,6 +9,7 @@
   - 📝 Researcher at Conestoga College
   - 📱 Creator of chart topping iOS app <a href="https://appadvice.com/app/guitar-practice/1513229012">Guitar Practice (Peaked #23 in Canada)</a>
   - 💻 Creator of the website <a href="http://marketmash.ca">Market Mash</a>
+  - 💼 <a href="https://kstencell.github.io/">Portfolio website</a>
 <!--
 
 **kstencell/kstencell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
