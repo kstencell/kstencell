@@ -4,8 +4,8 @@
 
 ## About me
 
-  # - 📘 Graduate of the University of Guelph, Bachelor of Science (Honours) Major Theoretical Physics
-  # - 📗 Student at Conestoga College, Bachelor of Computer Science (Honours)
+  ### - 📘 Graduate of the University of Guelph, Bachelor of Science (Honours) Major Theoretical Physics
+  ### - 📗 Student at Conestoga College, Bachelor of Computer Science (Honours)
   - 📝 Researcher at Conestoga College
   - 📱 Creator of chart topping iOS app <a href="https://appadvice.com/app/guitar-practice/1513229012">Guitar Practice (Peaked #23 in Canada)</a>
   - 💻 Creator of the website <a href="http://marketmash.ca">Market Mash</a>
